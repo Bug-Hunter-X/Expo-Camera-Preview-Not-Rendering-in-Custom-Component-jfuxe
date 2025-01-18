@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with a custom camera component. The issue is that the camera preview doesn't render correctly, resulting in a blank screen. This happens intermittently and seems to be related to asynchronous operations within the component lifecycle.
